@@ -1,1 +1,3 @@
-include ':Okhttp3', ':Retrofit', ':LoginMvp', ':Fragmentation', ':Loader'
+include ':RecyclerView'
+include ':Okhttp3', ':Retrofit', ':LoginMvp', ':Fragmentation', ':Loader', ':MPAndroidChart'
+include ':RxJava'
